@@ -6,12 +6,12 @@ This code uses the subprocess library to run ffmpeg command and convert the m3u 
 This is a simple Python script that uses ffmpeg to convert m3u files to m3u8 files.
 Requirements
 
-    *ffmpeg should be installed on your system, you can install it by following the instructions for your operating system.
+    ffmpeg should be installed on your system, you can install it by following the instructions for your operating system.
 
 **Usage**
 
-    *Run the script and pass the path to the m3u file as an argument.
-    *The script will output the m3u8 file in the same directory as the m3u file, with the same name but with the .m3u8 extension.
+    Run the script and pass the path to the m3u file as an argument.
+    The script will output the m3u8 file in the same directory as the m3u file, with the same name but with the .m3u8 extension.
 
 **Example**
 
